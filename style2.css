@@ -1,7 +1,7 @@
 body{
   background-image: url(STEM.jpg);
-  background-position: center;
-  background-size: cover;
+  background-repeat: repeat-y
+
 }
 
 
