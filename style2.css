@@ -1,0 +1,55 @@
+body{
+  background-color:	#F8F8FF;
+}
+
+.title1{
+  display: block;
+  text-align: center;
+  color: black;
+  font-size: 40pt;
+  font-family: Century Gothic;
+  font-weight: bolder;
+}
+.title2{
+  display: block;
+  text-align: center;
+  color: black;
+  font-size: 20pt;
+  font-family: Century Gothic;
+  font-weight: bold;
+}
+.tableinput{
+  display: block;
+  text-align: center;
+  color:black
+  font-family: Century Gothic;
+}
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+a:link, a:visited{
+  display: block;
+  font-weight: bold;
+  font-family: Century Gothic;
+  color: #000000;
+  background-color: rgba(255, 255, 255, 0);
+  width: 120px;
+  text-align: center;
+  padding: 4px;
+  text-transform:uppercase;
+  text-decoration: none;
+}
+a:hover, a:active{
+  background-color: #808080;
+  cursor: pointer;
+}
+li{
+  float: left;
+}
+[css].classname {
+color: #333333;
+font-family: Century Gothic, sans-serif;
+}[/css]

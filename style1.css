@@ -1,0 +1,84 @@
+**{
+  margin: 0;
+  padding: 0;
+}
+html, body{
+  height: 100%;
+}
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+a:link, a:visited{
+  display: block;
+  font-weight: bold;
+  font-family: Century Gothic;
+  color: #FFFFFF;
+  background-color: rgba(255, 255, 255, 0);
+  width: 120px;
+  text-align: center;
+  padding: 4px;
+  text-transform:uppercase;
+  text-decoration: none;
+}
+a:hover, a:active{
+  background-color: #808080;
+  cursor: pointer;
+}
+li{
+  float: left;
+}
+body{
+  background-color: #000000;
+}
+
+.heading_about{
+  display: block;
+  text-align: center;
+  padding: 10px;
+  color: white;
+  font-size: 50pt;
+  font-family: Century Gothic;
+  font-weight: bolder;
+}
+.content{
+  display: block;
+  text-align: center;
+  padding: 5px;
+  color: white;
+  font-size: 20pt;
+  font-family: Century Gothic;
+  font-weight: bold;
+}
+.content1{
+  display: block;
+  text-align: center;
+  padding: 5px;
+  color: white;
+  font-size: 14pt;
+  font-family: Century Gothic;
+}
+.title3{
+  display: block;
+  text-align: center;
+  padding: 5px;
+  color: white;
+  font-size: 18pt;
+  font-family: Century Gothic;
+  font-weight: bolder;
+}
+.title4{
+  display: block;
+  text-align: center;
+  padding: 5px;
+  color: white;
+  font-size: 16pt;
+  font-family: Century Gothic;
+  font-weight: bold;
+}
+[css].classname {
+color: #333333;
+font-family: Century Gothic, sans-serif;
+}[/css]
